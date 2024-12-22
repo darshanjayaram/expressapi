@@ -1,0 +1,5 @@
+npm init -y
+npm install body-parse, dotenv express mongoose, nodemon
+
+
+render for backend and Atlas for DB
